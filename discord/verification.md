@@ -24,5 +24,5 @@ We also collect some data from you, as always, to keep safety in the environment
 - IPv4/IPv6 address, read more [here](https://en.wikipedia.org/wiki/IP_address)
 - Discord ID, read more [here](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID)
 
-Your data is managed by [VaultCord](https://vaultcord.win) and fully respects the [GDRP regulations](https://gdpr-info.eu/) to keep your privacy. We will never expose your information anywhere.
+Your data is managed by [VaultCord](https://vaultcord.win) and fully respects the [GDPR regulations](https://gdpr-info.eu/) to keep your privacy. We will never expose your information anywhere.
 Verification service provided by [VaultCord](https://vaultcord.win).
